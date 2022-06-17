@@ -1,0 +1,63 @@
+.banner {
+  width: 670px;
+  height: auto;
+}
+
+.firstGridBanner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.bannerContainer {
+  margin-top: 70px;
+  margin-bottom: 100px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.joinButton {
+  margin-top: 70px;
+  border-radius: 6px;
+  background-color: #b9ff74;
+  color: black;
+}
+
+.secondBannerContainer {
+  background-color: #1c1c1d;
+  display: flex;
+  border-radius: 8px;
+  justify-content: space-around;
+  margin: 20px 100px;
+  padding: 60px 20px;
+}
+
+.squareContent {
+  display: flex;
+  flex-direction: rwo;
+}
+
+.square {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-left: 20px;
+}
+
+.square span {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.square p {
+  font-size: 0.9rem;
+  color: #a4a4ad;
+}
+
+.squareContent img {
+  width: 88px;
+  height: 88px;
+}

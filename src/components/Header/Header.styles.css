@@ -1,0 +1,11 @@
+.nav-bar {
+  padding-top: 2.4rem;
+  font-weight: bold;
+  background: black;
+  text-align: center;
+}
+
+.logo {
+  width: 228px;
+  height: 52px;
+}
